@@ -1,5 +1,20 @@
 import { add } from "./lib.js";
+import { subtract } from "./lib.js";
+import { multiply } from "./lib.js";
+import { divide } from "./lib.js";
 
-const result = add(10, 20);
+const resultAdd = add(10, 20);
 
-console.log(result);
+console.log(resultAdd);
+
+const resultSubtract = subtract(5, 4);
+
+console.log(resultSubtract);
+
+const resultMultiply = multiply(5, 4);
+
+console.log(resultMultiply);
+
+const resultDivide = divide(3, 3);
+
+console.log(resultDivide);
