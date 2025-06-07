@@ -1,5 +1,5 @@
 import { add } from "./lib.js";
 
-const result = add(5, 4);
+const result = add(10, 20);
 
 console.log(result);
