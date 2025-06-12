@@ -12,5 +12,12 @@
     "modules"
   ],
   "author": "Saiful Azri Siregar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0",
+    "prettier": "3.5.3",
+    "typescript-eslint": "^8.34.0"
+  }
 }
