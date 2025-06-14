@@ -6,7 +6,7 @@ console.log("add:", resultAdd);
 const resultSubtract = subtract(5, 4);
 console.log("subtract:", resultSubtract);
 
-const resultMultiply = multiply(5, 4);
+const resultMultiply = multiply(6, 4);
 console.log("multiply:", resultMultiply);
 
 const resultDivide = divide(3, 3);
