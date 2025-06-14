@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/oiazri/Example-Javascript-Moduls.git"
-  },
   "keywords": [
     "demo",
     "javascript",
@@ -20,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/oiazri/Example-Javascript-Moduls/issues"
   },
-  "homepage": "https://github.com/oiazri/Example-Javascript-Moduls#readme",
-  "devDependencies": {
-    "prettier": "3.5.3"
-  }
+  "homepage": "https://github.com/oiazri/Example-Javascript-Moduls#readme"
 }
