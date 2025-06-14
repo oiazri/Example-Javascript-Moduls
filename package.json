@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/oiazri/Example-Javascript-Moduls/issues"
   },
-  "homepage": "https://github.com/oiazri/Example-Javascript-Moduls#readme"
+  "homepage": "https://github.com/oiazri/Example-Javascript-Moduls#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
 }
